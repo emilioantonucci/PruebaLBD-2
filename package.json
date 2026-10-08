@@ -1,0 +1,8 @@
+{
+  "name": "lbd-producir",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LBD · Práctica 1 · PRODUCIR — componente para Rise 360 y servicio de agentes (Vercel + Gemini)",
+  "type": "module",
+  "engines": { "node": ">=18" }
+}
